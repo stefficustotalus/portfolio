@@ -1,0 +1,327 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.64482,
+          53.52438,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Müritz Web"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6843308,
+          53.5194547,
+          0
+        ]
+      },
+      "properties": {
+        "name": "NORD DESIGN Waren"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6936602000001,
+          53.5084246,
+          0
+        ]
+      },
+      "properties": {
+        "name": "4eck Media GmbH & Co. KG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7170987,
+          53.5191616,
+          0
+        ]
+      },
+      "properties": {
+        "name": "bube design"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7914848,
+          53.5107507,
+          0
+        ]
+      },
+      "properties": {
+        "name": "webdesign-Radtke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7300290000001,
+          53.604523,
+          0
+        ]
+      },
+      "properties": {
+        "name": "KARLINSKI Grafikdesign"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6017206,
+          53.6159792,
+          0
+        ]
+      },
+      "properties": {
+        "name": "MAGNUSWERK.DESIGN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7009773,
+          53.5096906,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Werbung & Design Trendclick"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7306315,
+          53.5461721,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Beinhart Internet Service, Inh. Ingolf Schulz e. K."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.528505,
+          53.6848551,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Friedrich Fassunge - Sounddesigner und Grafiker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.425524,
+          53.4767725,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Malchow-Designer | Jan Papke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9087785,
+          53.6947659,
+          0
+        ]
+      },
+      "properties": {
+        "name": "V.V.DESIGN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.611639,
+          53.3916105,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Webdesign Asmus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.64482,
+          53.52438,
+          0
+        ]
+      },
+      "properties": {
+        "name": "primaweb GbR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1234727999999,
+          53.5719952,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Medium Marketing Kommunikation UG&Co.KG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5582400000001,
+          53.44521,
+          0
+        ]
+      },
+      "properties": {
+        "name": "LINUS WITTICH Medien KG, Sietow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9148027,
+          53.7161969,
+          0
+        ]
+      },
+      "properties": {
+        "name": "G&D Grafik, Druck & Verlag GmbH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7167669,
+          53.5220931,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hallo Nachbar Prima-Druck + Verlag GmbH & Co. KG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7757182,
+          53.7387198,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Buß Design"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3548499,
+          53.76078,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Schmoock Design - Webdesign"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5755841,
+          53.7802188,
+          0
+        ]
+      },
+      "properties": {
+        "name": "pro-webART"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5743667,
+          53.7745322,
+          0
+        ]
+      },
+      "properties": {
+        "name": "farbwerft - Werbeagentur | Copyshop | Druckservice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5737027,
+          53.7697231,
+          0
+        ]
+      },
+      "properties": {
+        "name": "777-Design"
+      }
+    }
+  ]
+}
